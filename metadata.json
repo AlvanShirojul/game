@@ -1,0 +1,5 @@
+{
+  "name": "Ular Tangga - Snakes and Ladders",
+  "description": "A classic Snakes and Ladders (Ular Tangga) board game. Roll the dice and race to square 100 against the computer. The game features a 10x10 board with classic snake and ladder placements.",
+  "requestFramePermissions": []
+}
